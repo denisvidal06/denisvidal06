@@ -10,7 +10,7 @@
    <a href="https://github.com/denisvidal06">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisvidal06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-![Streak](https://streak-stats.demolab.com/?user=gguilhermelopes&theme=dracula)
+![Streak](https://streak-stats.demolab.com/?user=denisvidal06&theme=dark)
 <br>
        
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvidal06&layout=compact&langs_count=6&theme=dark"/>
