@@ -28,7 +28,7 @@
     </a>
 </div>
 
-<a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/channels/@me/1333558245050159184" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/felipe-afonso-606359227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 </div>
