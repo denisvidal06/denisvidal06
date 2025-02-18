@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100:9956F6,0:FF00B8&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Denis+Vidal;tenho+34+anos;Eu+sou+de+Boa+Vista,+RR;Eu+estudo+Programação+FullStack;Bem+Vindo!🚀)](https://github.com/Felipeafdev)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100:9956F6,0:FF00B8&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Denis+Vidal;Eu+moro+em+Boa+Vista,+RR;Estou+estudando+Programação+FullStack;Seja+Bem+Vindo!🚀)](https://github.com/denisvidal06)
 
 </div>
 <div align="center">
   <div aling="center">
-    <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=E34C26&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
-    <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeafdev&layout=compact&hide_border=true&title_color=36BCF7&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Denisvidal06&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=E34C26&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Denis Vidal github stats" />
+    <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisvidal06&layout=compact&hide_border=true&title_color=36BCF7&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
 </div>
   
 <div style="display: flex; justify-content: center;">
