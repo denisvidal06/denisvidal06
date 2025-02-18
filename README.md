@@ -1,37 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=denisvidal06" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:9956F6,0:FF00B8&height=120&section=header&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Denis+Vidal!;" />
-</h1>
-
-
-
- <div>
-   <a href="https://github.com/denisvidal06">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisvidal06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-
-<br>
-       
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvidal06&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
-##
-<h3>Minhas Habilidades</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-  ##
-
-  <div> 
-  <a href="https://www.instagram.com/denisvidal_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:crfdenis0606@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denis-vidal-6a8311230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100:9956F6,0:FF00B8&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Denis+Vidal;tenho+34+anos;Eu+sou+de+Boa+Vista,+RR;Eu+estudo+Programação+FullStack;Bem+Vindo!🚀)](https://github.com/Felipeafdev)
+
 </div>
+<div align="center">
+  <div aling="center">
+    <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=E34C26&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
+    <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeafdev&layout=compact&hide_border=true&title_color=36BCF7&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+</div>
+  
+<div style="display: flex; justify-content: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=100:9956F6,0:FF00B8&vCenter=true&width=150&height=20&lines=Technologies" alt="Typing SVG" />
+</div>
+   
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img alt="Java" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img alt="python" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img alt="typescript" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="Js" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="HTML" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img alt="CSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" target="_blank"></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="TailwindCSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" target="_blank"></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" target="_blank"></a>
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://www.linkedin.com/in/felipe-afonso-606359227/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=100:9956F6,0:FF00B8&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" />
+    </a>
+</div>
+
+<a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/felipe-afonso-606359227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:9956F6,0:FF00B8&height=120&section=footer"/>
