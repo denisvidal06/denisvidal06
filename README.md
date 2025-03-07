@@ -1,4 +1,4 @@
-<img align="right" height="380"  src="R.png" >
+<img align="right" height="380"  src="pngtree-vector-style-image-of-a-developer-programming-modern-ui-design-light-png-image_12749936.png" >
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Denis!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
@@ -90,8 +90,8 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
   <!-- Design e Organização -->
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
-  <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira">
-  <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion">
+  <!-- <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira"> -->
+  <!-- <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion"> -->
   </p>
   
   <p align="center">
@@ -113,4 +113,4 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
   <div align="right">
    <img src="https://pageview.vercel.app/?github_user=denisvidal06" alt="Visualizações do Perfil">
   
-  Made with 💜 by <a href="https://github.com/denisvidal06">KM</a>.</div>
+  Made with 💜 by <a href="https://github.com/denisvidal06">Denis Vidal</a>.</div>
