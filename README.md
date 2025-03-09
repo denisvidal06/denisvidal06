@@ -1,5 +1,3 @@
-
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Denis!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
 </h2>
@@ -9,7 +7,6 @@
 <p>Desenvolvedor Full Stack</p>
 <p>Boa Vista, RR - Brasil</p>
 <p> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio da Amazônia.</p>
-
 
 <p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
 <br> 
@@ -87,7 +84,7 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
   <!-- <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"> -->
   <!-- <img src="https://img.shields.io/badge/API-000?style=for-the-badge&logo=fastapi&logoColor=009688" alt="API"> -->
   <!-- <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=FF3E00" alt="JSON"> -->
-  <!-- </p> --> -->
+  <!-- </p> -->
   
   <p align="center">
   <!-- Design e Organização -->
