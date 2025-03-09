@@ -26,14 +26,14 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
 <h3 align="center">Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denisvidal06/">
+  <a href="https://www.linkedin.com/in/denis-vidal-6a8311230/">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/denisvidal_/">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
   </a>
   <a href="https://discord.com/users/1058861253772189827">
-    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF" alt="Discor">
+    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF" alt="Discord">
   </a>
 </p>
 
