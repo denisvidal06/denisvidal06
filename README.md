@@ -1,12 +1,15 @@
-<img align="right" height="380"  src="pngtree-vector-style-image-of-a-developer-programming-modern-ui-design-light-png-image_12749936.png" >
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Denis!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
 </h2>
 
+<img align="right" height="380"  src="pngtree-vector-style-image-of-a-developer-programming-modern-ui-design-light-png-image_12749936.png" >
+
 <p>Desenvolvedor Full Stack</p>
 <p>Boa Vista, RR - Brasil</p>
 <p> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio da Amazônia.</p>
+
 
 <p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
 <br> 
@@ -15,7 +18,7 @@ Atualmente, trabalho como Suporte Tecnico na Startup <a href="https://pigz.com.b
 <br>
 Além desse universo tech, sou fã de games, filmes, series, musicas, passeios ao ar livre e adoro curtir cada momento. Seja desenvolvendo uma pagina ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
 
-<!-- Confira meu <a href="https://karina-martins.vercel.app/" target="_blank">portfólio</a> e veja meus projetos. -->
+<!-- Confira meu <a href="https://denis-vidal.vercel.app/" target="_blank">portfólio</a> e veja meus projetos. -->
 
 Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
 
