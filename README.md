@@ -46,11 +46,11 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
     <tr>
       <!-- GitHub Status -->
       <td>
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denisvidal06&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub Stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denisvidal06&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=chartreuse-dark" alt="GitHub Stats">
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvidal06&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvidal06&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=chartreuse-dark" alt="Top Languages">
       </td>
     </tr>
   </table>
