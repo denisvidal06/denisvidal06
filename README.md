@@ -4,7 +4,7 @@
 
 <img align="right" height="380"  src="pngtree-vector-style-image-of-a-developer-programming-modern-ui-design-light-png-image_12749936.png" >
 
-<p>Desenvolvedor Full Stack</p>
+<p>Desenvolvedor Web</p>
 <p>Boa Vista, RR - Brasil</p>
 <p> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio da Amazônia.</p>
 
